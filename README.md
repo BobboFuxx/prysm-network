@@ -1,2 +1,3 @@
 # prysm-network
-Prysm Network Testnets 
+
+Prysm Network prysm_7000-7 Testnet
